@@ -4,7 +4,6 @@ Created on Sun Oct 28 10:26:51 2018
 
 @author
 Name: Bhavya Kashetty
-Netid: bxk180012
 """
 from skimage import io
 import numpy as np
